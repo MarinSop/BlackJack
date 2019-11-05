@@ -3,6 +3,7 @@
 #include <vector>
 #include "Suite.h"
 #include <iostream>
+
 class Card
 {
 public:

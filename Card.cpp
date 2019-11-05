@@ -10,6 +10,8 @@ Card::Card(std::string name, int value, Suite suite)
 
 Card::~Card()
 {
+
+
 }
 
 
@@ -49,4 +51,5 @@ void Card::changeCardValue(int value)
 {
 	_value = value;
 }
+
 
